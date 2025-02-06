@@ -1,0 +1,4 @@
+# 白名单 V1.0
+```lua
+loadstring(game:HttpGet("https://github.com/XiaoYunCN/Anti-Crack/raw/main/beta.lua", true))()
+```
